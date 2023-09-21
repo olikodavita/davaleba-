@@ -3,12 +3,13 @@ body {
     background-color: #1F314F;
     margin: 0%;
     display: flex;
+     justify-content: center;
 }
 
 .main {
     display: flex;
     padding: 143px;
-    margin-left: 395px;
+    
 }
 .img1{width: 160px;
     height: 160px;
